@@ -1,0 +1,3 @@
+D:\OI\CMake\bin\cmake.exe -E rm -f CMakeFiles\Installer.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\Installer.dir/objects.a @CMakeFiles\Installer.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -Wl,--whole-archive CMakeFiles\Installer.dir/objects.a -Wl,--no-whole-archive -o Installer.exe -Wl,--out-implib,libInstaller.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Installer.dir\linkLibs.rsp

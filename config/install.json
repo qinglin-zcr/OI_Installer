@@ -1,0 +1,7 @@
+{
+    "installPath":"output",
+    "packages":[
+        "vscode",
+        "chrome"
+    ]
+}

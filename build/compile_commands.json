@@ -1,0 +1,32 @@
+[
+{
+  "directory": "E:/Program/OI_Installer/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles\\OI_Installer.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OI_Installer.dir\\main.cpp.obj -c E:\\Program\\OI_Installer\\main.cpp",
+  "file": "E:/Program/OI_Installer/main.cpp",
+  "output": "CMakeFiles/OI_Installer.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/Program/OI_Installer/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles\\OI_Installer.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OI_Installer.dir\\src\\installer.cpp.obj -c E:\\Program\\OI_Installer\\src\\installer.cpp",
+  "file": "E:/Program/OI_Installer/src/installer.cpp",
+  "output": "CMakeFiles/OI_Installer.dir/src/installer.cpp.obj"
+},
+{
+  "directory": "E:/Program/OI_Installer/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles\\OI_Installer.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OI_Installer.dir\\src\\logger.cpp.obj -c E:\\Program\\OI_Installer\\src\\logger.cpp",
+  "file": "E:/Program/OI_Installer/src/logger.cpp",
+  "output": "CMakeFiles/OI_Installer.dir/src/logger.cpp.obj"
+},
+{
+  "directory": "E:/Program/OI_Installer/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles\\OI_Installer.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OI_Installer.dir\\src\\config.cpp.obj -c E:\\Program\\OI_Installer\\src\\config.cpp",
+  "file": "E:/Program/OI_Installer/src/config.cpp",
+  "output": "CMakeFiles/OI_Installer.dir/src/config.cpp.obj"
+},
+{
+  "directory": "E:/Program/OI_Installer/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles\\OI_Installer.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OI_Installer.dir\\src\\filesystem.cpp.obj -c E:\\Program\\OI_Installer\\src\\filesystem.cpp",
+  "file": "E:/Program/OI_Installer/src/filesystem.cpp",
+  "output": "CMakeFiles/OI_Installer.dir/src/filesystem.cpp.obj"
+}
+]
