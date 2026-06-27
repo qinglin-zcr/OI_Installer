@@ -1,3 +1,0 @@
-E:/Program/OI_Installer/build/CMakeFiles/OI_Installer.dir
-E:/Program/OI_Installer/build/CMakeFiles/edit_cache.dir
-E:/Program/OI_Installer/build/CMakeFiles/rebuild_cache.dir

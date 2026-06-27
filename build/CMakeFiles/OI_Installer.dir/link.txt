@@ -1,3 +1,0 @@
-D:\OI\CMake\bin\cmake.exe -E rm -f CMakeFiles\OI_Installer.dir/objects.a
-D:\mingw64\bin\ar.exe qc CMakeFiles\OI_Installer.dir/objects.a @CMakeFiles\OI_Installer.dir\objects1.rsp
-D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\OI_Installer.dir/objects.a -Wl,--no-whole-archive -o bin\OI_Installer.exe -Wl,--out-implib,libOI_Installer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OI_Installer.dir\linkLibs.rsp
